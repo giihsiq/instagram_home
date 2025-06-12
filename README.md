@@ -3,7 +3,7 @@ Instagram login page, developed in the Digital Innovation One bootcamp.
 
 ##
 
-### Languages
+### Tecnologies
  <div>
    <p>• HTML, CSS</p>
  </div>
